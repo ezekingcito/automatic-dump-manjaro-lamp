@@ -45,7 +45,7 @@ Script Bash automatizado para realizar respaldos completos de bases de datos MyS
 
 	-Especificar directorio de respaldo
 
-
+##
 📜 Licencia
 MIT License - Ver archivo LICENSE para más detalles
 
