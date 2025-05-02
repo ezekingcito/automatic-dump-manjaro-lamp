@@ -28,6 +28,28 @@ Script Bash automatizado para realizar respaldos completos de bases de datos MyS
 
 ## 🚀 Instrucciones de uso básico
 
-1. Descargar el script:
+1. Clonar el repositorio 
    ```bash
-   https://github.com/ezekingcito/automatic-dump-manjaro-lamp.git
+   git clone https://github.com/ezekingcito/automatic-dump-manjaro-lamp.git
+2. Dar permisos de ejecución
+   ```bash
+   sudo chmod +x automatic-dump.sh
+3. Ejecutar el script:
+   ```bash
+   ./automatic-dump.sh
+4. Seguir las instrucciones interactivas:
+
+	-Ingresar usuario MySQL
+
+	-Ingresar contraseña (no visible)
+
+	-Especificar directorio de respaldo
+
+
+📜 Licencia
+MIT License - Ver archivo LICENSE para más detalles
+
+👨💻 Autor
+Ezequiel Mendoza - @ezekingcito
+
+
